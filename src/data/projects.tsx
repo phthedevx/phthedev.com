@@ -10,9 +10,9 @@ export const projects: Project[] = [
   {
     title: "Erank (TCC)",
     description: "Plataforma social para gamers de FPS com perfis, times e torneios.",
-    stack: ["Java", "Spring Boot", "React", "PostgreSQL"], // Exemplo base
-    github: "https://github.com/ofback/E-rank", // Coloque o link real se tiver
+    stack: ["Java", "Spring Boot", "Flutter", "MySQL"], 
+    github: "https://github.com/ofback/E-rank",
   },
 
-  // Adicione os outros depois
+ 
 ];

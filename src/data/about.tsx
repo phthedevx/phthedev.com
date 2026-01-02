@@ -1,5 +1,3 @@
-// src/data/about.tsx
-
 export const aboutData = {
   name: "Pedro Henrique",
   title: "Desenvolvedor de Software",
@@ -9,11 +7,10 @@ export const aboutData = {
 
 Gosto de evoluir na prática, enfrentar desafios e construir coisas que agreguem valor de verdade. Acredito que constância, aprendizado contínuo e responsabilidade com o que se constrói dizem mais do que qualquer título. Vamos trocar ideias, fazer networking e, quem sabe, criar algo juntos!`,
 
-  // ADICIONADO: O objeto social que estava faltando
   social: {
-    linkedin: "https://www.linkedin.com/in/phdevx/", // Coloque seu link real aqui
-    github: "https://github.com/phthedevx",           // Coloque seu link real aqui
-    email: "mailto:contatopedrohenrique.dev@gmail.com",               // Coloque seu email real aqui
+    linkedin: "https://www.linkedin.com/in/phdevx/", 
+    github: "https://github.com/phthedevx",          
+    email: "mailto:contatopedrohenrique.dev@gmail.com",            
   },
 
   experience: [
@@ -40,8 +37,8 @@ Gosto de evoluir na prática, enfrentar desafios e construir coisas que agreguem
 
   achievements: [
     {
-      title: "Hackathon SESI",
-      description: "Participação em desafios de inovação tecnológica, desenvolvendo protótipos funcionais em equipe.",
+      title: "3º Lugar - Hackathon SESI Saúde",
+      description: "Premiado em Feira de Santana/BA com a equipe 'Debugando Sintomas'. Desenvolvemos um CRM inteligente para integrar sistemas e automatizar processos, resolvendo o desafio de agilidade e transparência na experiência do cliente industrial do SESI.",
     },
   ],
 };

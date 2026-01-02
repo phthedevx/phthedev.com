@@ -1,5 +1,3 @@
-// src/data/journey.ts
-
 export interface JourneyItem {
   year: string;
   title: string;
