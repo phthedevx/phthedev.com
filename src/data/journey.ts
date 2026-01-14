@@ -45,8 +45,8 @@ export const journeyData: JourneyItem[] = [
   {
     year: "Dez 2025",
     title: "Analista de Sistemas Júnior",
-    description: "Após 3 meses de estágio e ao finalizar o curso técnico, fui efetivado na Avanza Telecom como Analista de Sistemas Júnior.",
-    tags: ["Efetivação", "Analista Jr", "Carreira"],
+    description: "Após 3 meses de estágio e ao finalizar o curso técnico, fui efetivado na Avanza Telecom como Assistente de Programação de Sistemas.",
+    tags: ["Efetivação", "Assistente de Programação de Sistemas", "Carreira"],
   },
   {
     year: "2026",

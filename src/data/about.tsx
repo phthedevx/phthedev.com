@@ -3,7 +3,7 @@ export const aboutData = {
   title: "Desenvolvedor de Software",
   avatarUrl: "/eu.jpeg",
 
-  shortBio: `Prazer, me chamo Pedro. Analista de Sistemas Júnior e Desenvolvedor de Software, com formação técnica em Desenvolvimento de Sistemas. Busco construir soluções que façam sentido na prática e entreguem valor real para quem usa e para quem mantém.
+  shortBio: `Prazer, me chamo Pedro. Assistente de Programação de Sistemas e Desenvolvedor de Software, com formação técnica em Desenvolvimento de Sistemas. Busco construir soluções que entreguem valor real na prática para quem usa e quem mantém.
 
 Gosto de evoluir na prática, enfrentar desafios e construir coisas que agreguem valor de verdade. Acredito que constância, aprendizado contínuo e responsabilidade com o que se constrói dizem mais do que qualquer título. Vamos trocar ideias, fazer networking e, quem sabe, criar algo juntos!`,
 
